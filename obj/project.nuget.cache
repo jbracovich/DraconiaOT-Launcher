@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hyu30zSTF1spPctB8zqGnR8AHjnKI+VSN0nmfJyp6931D/y/rhKuHgv1VxDGthFE7KXFhlQImAhRoaz6aY8bSg==",
+  "success": true,
+  "projectFilePath": "C:\\canary-launcher\\CanaryLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert Bracovich\\.nuget\\packages\\ionic.zip\\1.9.1.8\\ionic.zip.1.9.1.8.nupkg.sha512",
+    "C:\\Users\\Robert Bracovich\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
