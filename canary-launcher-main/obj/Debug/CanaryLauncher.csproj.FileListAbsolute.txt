@@ -1,6 +1,0 @@
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\CanaryLauncher.csproj.AssemblyReference.cache
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\src\App.g.cs
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\src\MainWindow.g.cs
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\src\SplashScreen.g.cs
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\CanaryLauncher_MarkupCompile.cache
-C:\Users\Robert Bracovich\Downloads\Compressed\canary-launcher-main\canary-launcher-main\obj\Debug\CanaryLauncher_MarkupCompile.lref
